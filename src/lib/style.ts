@@ -18,7 +18,7 @@ export const defaultMapConfig: MapConfig = {
       classes: [1, 5, 6]
     },
     water: {
-      color: '#e2e8f0',
+      color: '#4594A3',
       classes: [20, 21, 22]
     },
     cropland: {
